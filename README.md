@@ -1,2 +1,1 @@
-# python_training-
-lessons python for testers
+# Repository fo Python training © AivenKis
